@@ -46,8 +46,6 @@ argument determines how the input file will be parsed.
 <a id='eda'></a>
 ## Exploratory Data Analysis
 
-Now that you have the data collected and wrangled, you're ready to start exploring the data. In this section you will write some code to compute descriptive statistics from the data. You will also be introduced to the `matplotlib` library to create some basic histograms of the data.
-
 This section involves the exploratory analysis of the cleaned data.
 
 <a id='statistics'></a>
