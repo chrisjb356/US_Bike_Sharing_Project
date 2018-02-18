@@ -13,9 +13,10 @@
 <a id='intro'></a>
 ## Introduction
 
-This project will attempt to provide insights based on exploratory analysis of bike share share data. The data used for this project is orginally from [Motivate](https://www.motivateco.com/) which is a major bike-share system provider accross the United States.
+This project will attempt to provide insights based on exploratory analysis of US bike share share data. The data used for this project is orginally from [Motivate](https://www.motivateco.com/) which is a major bike-share system provider across the United States.
 
-Three major cities were analysed in this project (New York City, Chicago and Washington DC) and compared to analyse differences of those respective systems with regards to registered, regular and casual users.
+Three major cities were analysed in this project (New York City, Chicago and Washington DC). The aim of this project was to compare 
+usability habits across multiple user types (registered, regular and casual) to provide commercial insights.
 
 This project was part of Udacity's Data Analyst Nanodegree program. The full submitted project can be found in the jupyter notebook file in the project files.
 
